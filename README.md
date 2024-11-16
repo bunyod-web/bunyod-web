@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xujaqulov Bunyod
 - 👀 I’m interested in learn new programming languages
-- 🌱 I’m currently learning nestjs
+- 🌱 I’m currently learning Nestjs
 
 
 <!---
